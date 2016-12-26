@@ -31,5 +31,6 @@ alias.l=log
 alias.cp=cherry-pick
 alias.a=add
 alias.d=diff
+alias.f=fetch
 ```
 
