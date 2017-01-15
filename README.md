@@ -18,6 +18,7 @@ alias grm='git rebase master'
 alias odoc='open ~/Documents'
 alias odl='open ~/Downloads'
 alias ghnr='open -a /Applications/Google\ Chrome.app/ https://github.com/new'
+alias ip='ifconfig en0 |grep "inet "'
 ```
 
 ###git config --global -l
