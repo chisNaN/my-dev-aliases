@@ -1,6 +1,6 @@
 #My development aliases
 
-###cat ~/.bash_profile
+###cat ~/.bash_profile (macOS)
 
 ```
 alias pg='ping google.com'
@@ -15,6 +15,8 @@ alias n='npm'
 alias gpom='git pull origin master'
 alias gcm='git checkout master'
 alias grm='git rebase master'
+alias odoc='open ~/Documents'
+alias odl='open ~/Downloads'
 ```
 
 ###git config --global -l
