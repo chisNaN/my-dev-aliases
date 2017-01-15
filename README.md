@@ -17,6 +17,7 @@ alias gcm='git checkout master'
 alias grm='git rebase master'
 alias odoc='open ~/Documents'
 alias odl='open ~/Downloads'
+alias ghnr='open -a /Applications/Google\ Chrome.app/ https://github.com/new'
 ```
 
 ###git config --global -l
