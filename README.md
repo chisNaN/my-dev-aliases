@@ -1,6 +1,6 @@
-#My development aliases
+# My development aliases
 
-###cat ~/.bash_profile (macOS)
+### cat ~/.bash_profile (macOS)
 
 ```
 alias pg='ping google.com'
@@ -21,7 +21,7 @@ alias ghnr='open -a /Applications/Google\ Chrome.app/ https://github.com/new'
 alias ip='ifconfig en0 |grep "inet "'
 ```
 
-###git config --global -l
+### git config --global -l
 
 ```
 alias.co=checkout
@@ -37,4 +37,3 @@ alias.a=add
 alias.d=diff
 alias.f=fetch
 ```
-
