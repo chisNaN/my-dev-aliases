@@ -1,6 +1,6 @@
 # My development aliases
 
-### cat ~/.bash_profile (macOS)
+### cat ~/.bash_profile (macOS) or ~/.zshrc (for users of Oh my zsh)
 
 ```
 alias pg='ping google.com'
