@@ -1,6 +1,6 @@
-# My development aliases
+# My development aliases (macOS)
 
-### cat ~/.bash_profile (macOS) or ~/.zshrc (for users of Oh my zsh)
+### cat ~/.bash_profile or ~/.zshrc (for users of Oh my zsh)
 
 ```
 alias pg='ping google.com'
@@ -19,6 +19,7 @@ alias odoc='open ~/Documents'
 alias odl='open ~/Downloads'
 alias ghnr='open -a /Applications/Google\ Chrome.app/ https://github.com/new'
 alias ip='ifconfig en0 |grep "inet "'
+alias sub='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
 ```
 
 ### git config --global -l
