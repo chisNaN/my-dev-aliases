@@ -24,6 +24,7 @@ alias ghnr='open -a /Applications/Google\ Chrome.app/ https://github.com/new'
 alias ip='ifconfig en0 |grep "inet "'
 alias sub='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
 alias y='yarn'
+alias k=kubectl
 ```
 
 
