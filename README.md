@@ -1,10 +1,17 @@
 # My development aliases
 
-### cat ~/.bash_profile or ~/.zshrc (for users of Oh my zsh)
+### For macOs
 
->For macOs
+:bulb: which default shell?
 
-
+```sh
+echo $SHELL
+// /bin/zsh
+nano .zprofile
+// /bin/bash
+nano .bash_profile
+```
+___
 ```
 alias pg='ping google.com'
 alias b='brew'
@@ -28,7 +35,7 @@ alias k=kubectl
 ```
 
 
->For Ubuntu
+### For Ubuntu
 
 ```
 alias pg='ping google.com'
